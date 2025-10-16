@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="450" viewBox="0 0 300 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="450" fill="#f7efe3"/>
+  <rect x="12" y="12" width="276" height="426" rx="10" fill="#f1e5d6" stroke="#e5d6c1" stroke-width="2"/>
+  <g opacity="0.8">
+    <rect x="54" y="70" width="192" height="12" rx="6" fill="#b08968"/>
+    <rect x="54" y="96" width="192" height="12" rx="6" fill="#b08968"/>
+    <rect x="54" y="122" width="150" height="12" rx="6" fill="#b08968"/>
+  </g>
+  <rect x="54" y="180" width="192" height="220" rx="6" fill="#eadfce" stroke="#e5d6c1"/>
+  <text x="150" y="320" text-anchor="middle" font-family="'Playfair Display', serif" font-size="20" fill="#3e2a1f">No Cover</text>
+</svg>
